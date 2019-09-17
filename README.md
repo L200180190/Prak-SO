@@ -1,1 +1,1 @@
-# Praktikum_SO
+# Praktikum-SO
