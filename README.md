@@ -1,1 +1,1 @@
-# Praktikum-SO
+# Prak-SO
